@@ -28,7 +28,7 @@ const redisUuids = [{id: '789', version: 'beta'}, {id: '333', version: 'stable'}
 上面代码逻辑是当uuid为123或者456或者789的时候就命中灰度规则，就进入beta版本
 redis中已经存放了uuid为789和333的用户了
 
-
+[掘金教程](https://juejin.cn/post/7010751591087079460)
 
 
 
